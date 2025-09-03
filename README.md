@@ -1,4 +1,4 @@
-![UdemigEducations gif](https://github.com/user-attachments/assets/f03f577c-90b1-48b7-b6e3-d15dc5b90587)# 🎓 Udemig Education
+# 🎓 Udemig Education
 
 Bu proje, eğitim içeriklerini modern ve kullanıcı dostu bir arayüz ile sunmayı amaçlayan bir Udemig Education web uygulamasıdır. Öğrenciler kursları inceleyebilir, eğitim içeriklerine göz atabilir ve kolayca erişim sağlayabilir.
 
